@@ -75,13 +75,13 @@ http://localhost:8082/swagger-ui.html
 <br /><br />
 <img width="1898" height="738" alt="wishlist" src="https://github.com/user-attachments/assets/16c1808d-489e-48c1-8118-b14cac3dc710" />
 <br /><br />
-<img width="1906" height="877" alt="productDetails" src="https://github.com/user-attachments/assets/828b0513-b7ae-4a44-b7e3-2aa9b0dc2411" />
+<img width="1892" height="917" alt="product" src="https://github.com/user-attachments/assets/5fee9623-ac4e-462b-a9aa-5866d7b30587" />
 <br /><br />
-<img width="1903" height="896" alt="cart" src="https://github.com/user-attachments/assets/98f657ce-43f3-42e5-975a-76cf3178969b" />
+<img width="1875" height="825" alt="orderSummary" src="https://github.com/user-attachments/assets/8fb31c14-9760-4aa0-ac1e-cb04290a9e52" />
 <br /><br />
-<img width="1877" height="885" alt="checkout" src="https://github.com/user-attachments/assets/0b8d59ee-ba2a-4c4d-8778-21d45c07f8e4" />
+<img width="1877" height="830" alt="checkout" src="https://github.com/user-attachments/assets/1023a2b3-27d5-48db-80fb-e2031d9b9f0c" />
 <br /><br />
-<img width="1895" height="606" alt="stripePayment" src="https://github.com/user-attachments/assets/7e48bce6-e631-4b57-9cbc-3176484ec620" />
+<img width="1903" height="822" alt="stripePayment" src="https://github.com/user-attachments/assets/a28724c0-d8fc-4e0c-9bb1-5ba94769ed62" />
 <br /><br />
 <img width="1277" height="903" alt="orderDetails" src="https://github.com/user-attachments/assets/e2565d97-69f8-490c-8dc0-f6eab0175b5e" />
 <br /><br />
